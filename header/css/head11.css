@@ -1,0 +1,76 @@
+ .a {
+	height:60px;
+	width:600px;
+	border:2px solid black;
+	background-color:gray;
+
+}
+.ab{
+    background-color: #4CAF50;
+    border: 1px solid green;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+    border-right: 1px solid green;
+}
+
+.bc{
+    background-color: #4CAF50;
+    border: 1px solid green;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+    border-right: 1px solid green;
+}
+
+.cd{
+    background-color: #4CAF50;
+    border: 1px solid green;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+    border-right: 1px solid green;
+}
+
+.de{
+    background-color: #4CAF50;
+    border: 1px solid green;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+    border-right: 1px solid green;
+}
+
+.ef{
+    background-color: #4CAF50;
+    border: 1px solid green;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+    border-right: 1px solid green;
+}
